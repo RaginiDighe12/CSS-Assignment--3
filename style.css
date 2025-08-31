@@ -1,0 +1,163 @@
+.cards{
+                height:650px;
+                width:400px;
+                background-color:#ffd699;
+                border:solid 3px black;
+                text-align:center;
+                margin:10px 10px 10px 10px;
+                padding:10px 10px 10px 10px;
+                border-radius:5px 10px 5px 10px;
+                display:inline-block;
+            }
+            
+            #simple{
+                Color:tomato;
+                font-size:50px;
+                margin-top: 0px;
+            }
+            #magic{
+                color:black;
+                font-size: 15px;
+                font-family: cursive;
+                margin-top: 30px;
+            }          
+            .more{
+                color:brown;
+                font-size:15px;
+                text-align:left;
+            }
+            
+            
+            .for{
+                text-align:center;
+                padding-top:5px;
+                font-size: 15px;
+                color:darkorange;
+            }
+            .small{
+                color:chartreuse;
+                font-size: 15px;
+                text-align:right;
+                margin-right: 15px;
+                margin-bottom: 10px;
+                margin-top:10px;  
+            }
+            .ganpati{
+                height:100px;
+                width:100px;
+   
+            } 
+            .set{
+                font-size:15px;
+                text-align:right;
+                margin-right: 10px;
+            }
+            .type{
+                text-align:left;
+                font-size: 15px;
+                font-family:sans-serif; 
+                color:blue;
+                list-style-type:decimal;
+            
+            }
+            
+            
+            .elephant{
+                height:40px;
+                width:40px;
+                padding:10px 20px;
+
+            }
+            .box{
+               
+                background-color: white;
+                color:black;
+                
+            }
+            .free{
+                text-align: right;
+                padding-bottom: 5px;
+                font-size:15px;
+                font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+                
+            }
+            .java{
+                font-size: 25px;
+                font-family: bold;
+                text-align:left;
+                
+            }
+            .basic{
+                font-size: 20px;
+                font-family:Georgia, 'Times New Roman', Times, serif;
+                text-align:left;
+                margin-left:15px;
+            }
+            .ganu{
+                height:100x;
+                width:100px;
+                
+            }
+            .cont{
+                font-size: 15px;
+                font-family:'Courier New', Courier, monospace;
+                 text-align:right;
+                 color:black;
+                
+            }
+            .link{
+                color:black;
+                font-size: 15px;
+                text-align: right;
+                margin-right:10px
+            }
+            .start{
+                text-align: left;
+                font-size: 15px;
+                color:tomato;
+
+            }
+            .insta{
+                height:30px;
+                width:30px;
+            }
+            .facebook{
+                height:30px;
+                width:30px;
+            }
+
+            .youtube{
+                height:30px;
+                width:30px;
+            }
+            .btn{
+              color:black;
+              background-color:#99ff99;
+              margin-bottom:10px;
+             border-radius:5px 10px 5px 10px;
+
+            }
+            .card1{
+                 height:650px;
+                width:400px;
+                background-color:#66d9ff;
+                border:solid 3px black;
+                text-align:center;
+                margin:10px 10px 10px 10px;
+                padding:10px 10px 10px 10px;
+                border-radius:5px 10px 5px 10px;
+                display:inline-block;
+            }
+            .hack{
+                height:100px;
+                width:300px;
+            }
+            
+
+            
+           
+            
+           
+           
+           
+         
